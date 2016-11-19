@@ -1,6 +1,6 @@
 # Assignment-5
 
-Link to access topic modelling of Donald Trump Speech : 
+Link to access topic modelling of Donald Trump Speech : https://rawgit.com/Anushi0701/Assignment-5/master/index.html 
 
 FINDING MEMO
 
